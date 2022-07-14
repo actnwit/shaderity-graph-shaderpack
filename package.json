@@ -35,6 +35,7 @@
     "build-loader": "tsc -p ./loader/",
     "gts-lint": "gts lint ./src",
     "gts-clean": "gts clean ./src",
-    "gts-fix": "gts fix ./src"
+    "gts-fix": "gts fix ./src",
+    "yarn-pack": "npx yarn pack -f shaderity-graph-shaderpack-tmp.tgz"
   }
 }
