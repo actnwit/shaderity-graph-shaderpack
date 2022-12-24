@@ -23,7 +23,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "shaderity": "^0.2.5",
+    "shaderity": "^0.2.7",
     "shaderity-graph": "^0.1.2"
   },
   "scripts": {
